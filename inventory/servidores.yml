@@ -1,0 +1,10 @@
+---
+linux:
+  children:
+    centos:
+      hosts:
+        server01:
+    ubuntu:
+      hosts:
+        server02:
+        server03:
